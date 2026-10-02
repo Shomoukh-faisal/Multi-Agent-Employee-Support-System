@@ -1,0 +1,13 @@
+order_id,customer_id,product_id,status,delivery_date,shipping_city,last_update
+ORD-1001,CUST-01,P-101,Delivered,2026-06-10,Riyadh,Package delivered successfully
+ORD-1002,CUST-02,P-102,In Transit,2026-06-18,Jeddah,Package is with courier
+ORD-1003,CUST-01,P-103,Delayed,2026-06-22,Dammam,Delay due to logistics issue
+ORD-1004,CUST-03,P-104,Processing,2026-06-25,Makkah,Order is being prepared
+ORD-1005,CUST-04,P-105,Delivered,2026-06-08,Madinah,Delivered and signed by customer
+ORD-1006,CUST-02,P-108,Delivered,2026-06-13,Khobar,Delivered to building front desk
+ORD-1007,CUST-05,P-106,In Transit,2026-06-01,Taif,Departed Jeddah sorting center
+ORD-1008,CUST-05,P-109,Delivered,2026-06-15,Abha,Delivered to customer
+ORD-1009,CUST-06,P-110,Processing,2026-06-05,Tabuk,Order is being prepared
+ORD-1010,CUST-03,P-107,Delivered,2026-06-22,Buraidah,Delivered successfully
+ORD-1011,CUST-07,P-102,Returned,2026-06-17,Hail,Item returned refund pending
+ORD-1012,CUST-08,P-104,Cancelled,2026-06-19,Jubail,Order cancelled by customer

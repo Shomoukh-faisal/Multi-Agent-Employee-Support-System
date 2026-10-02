@@ -1,0 +1,11 @@
+{
+  "CUST-06": [
+    {
+      "user_message": "Where is my order ORD-1009?",
+      "system_response": "Your order ORD-1009 is currently 'Processing'. It is heading to Tabuk with a delivery date of 2026-03-05. Latest update: Order is being prepared.",
+      "intent": "order_tracking",
+      "action": "order_status_provided",
+      "timestamp": "2026-03-01T10:15:00"
+    }
+  ]
+}

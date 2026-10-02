@@ -1,0 +1,5 @@
+complaint_id,customer_id,order_id,issue,status,priority,created_at,escalation_required
+CMP-001,CUST-01,ORD-1003,Late delivery,Open,High,2026-02-20,True
+CMP-002,CUST-02,ORD-1006,Wrong item delivered,Resolved,Medium,2026-02-14,False
+CMP-003,CUST-05,ORD-1008,Product arrived damaged,In Progress,High,2026-02-16,True
+CMP-004,CUST-07,ORD-1011,Refund delay,Open,Medium,2026-02-18,False
