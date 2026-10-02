@@ -615,17 +615,5 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 - Dependency versions in `requirements.txt` are not pinned.
 - Deployment configuration for containers or cloud platforms is not included.
 
-## Project Team
-
-Developed for **AI 483 - Agentic AI and AI Automation** at the
-**University of Prince Mugrin**.
-
-| Role | Name |
-|---|---|
-| Team member | Shomookh Albehani |
-| Team member | Wejdan Bardisi |
-| Team member | Sadeen Hajjar |
-| Team member | Joodi Mulla |
-| Supervisor | Dr. Syed Bukhari |
 
 
